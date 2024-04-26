@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51ff9849-848d-4925-90be-68c1afe8a800" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Archer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Shields/Buckler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Shields/Hoplon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Shields/NullShield.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Shields/Shield.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Shields/Shieldable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Swordman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Warrior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Weapons/Bow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Weapons/Sword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Weapons/Weapon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/out/production/project/Weapons/Weaponable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Archer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Shields/Buckler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Shields/Hoplon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Shields/NullShield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Shields/Shield.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Shields/Shieldable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Swordman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Weapons/Bow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Weapons/Sword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Weapons/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_4/project/src/Weapons/Weaponable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/Fields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/FileOperationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/FileOperationJSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/RepositoryFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/RepositoryFileJSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/model/UserMapperJSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/utils/PhoneException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/utils/Validate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/views/Commands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/src/main/java/personal/views/ViewUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/controllers/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/Fields.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/FileOperationImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/FileOperationJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/RepositoryFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/RepositoryFileJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/model/UserMapperJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/utils/PhoneException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/utils/Validate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/views/Commands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/views/ViewUser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/target/classes/personal/views/ViewUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop_hw_5/homework/project/users.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/HomeWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/out/production/HomeWork/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/out/production/HomeWork/Persister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/out/production/HomeWork/ReportUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/out/production/HomeWork/Reportable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/out/production/HomeWork/Saveable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/out/production/HomeWork/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/src/Persister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/src/ReportUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/src/Reportable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/src/Saveable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/HomeWork/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/NotesProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/controllers/NoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/model/Fields.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/model/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/model/FileOperationJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/model/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/model/NotesMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/model/NotesMapperJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/model/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/model/RepositoryJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/views/Commands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/views/ViewNote$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/out/production/NotesProject/views/ViewNote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/controllers/NoteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/model/Fields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/model/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/model/FileOperationJSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/model/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/model/NotesMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/model/NotesMapperJSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/model/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/model/RepositoryJSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/views/Commands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/NotesProject/src/views/ViewNote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/NotesProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/controllers/AdapterController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/controllers/IController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/controllers/NoteController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/loggers/ILogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/loggers/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/model/Fields.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/model/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/model/IFileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/model/IRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/model/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/model/NotesMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/model/NotesMapperJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/model/Repository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/views/Commands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/views/IViewNote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/views/IViewOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/views/ViewNote$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/views/ViewNote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/views/ViewOperationWithLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/out/production/NotesProject/views/ViewOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/controllers/AdapterController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/controllers/IController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/controllers/NoteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/loggers/ILogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/loggers/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/model/Fields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/model/FileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/model/IFileOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/model/IRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/model/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/model/NotesMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/model/NotesMapperJSON.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/model/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/views/Commands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/views/IViewNote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/views/IViewOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/views/ViewNote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/views/ViewOperationWithLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/NotesProject/src/views/ViewOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seminar_7/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2fdSoVqoovmeyDO7YZCBp2cOlGm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ptdmitry/Documents/Git/GeekBrains_OOP_Java/java_oop_hw_4"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51ff9849-848d-4925-90be-68c1afe8a800" name="Changes" comment="" />
+      <created>1714129637015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714129637015</updated>
+    </task>
+    <servers />
+  </component>
+</project>
